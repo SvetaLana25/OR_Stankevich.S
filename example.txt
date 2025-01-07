@@ -1,1 +1,2 @@
-Изменения из branch1
+Изменения из branch1 и branch2B
+
